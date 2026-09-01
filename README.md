@@ -1,5 +1,8 @@
 <div align="center">
   <img src="./assets/header.gif" width="100%" alt="Header" />
+
+  <h1>Hi ✌️, Luis Adrián</h1>
+  <p><strong>Software Developer (Full-Stack / Backend Oriented) | Local AI </strong></p>
 </div>
 
 ---
