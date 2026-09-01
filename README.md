@@ -94,15 +94,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisAdrRamos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-<div align="center">
-  <h3>🔝 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=LuisAdrRamos&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisAdrRamos&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
