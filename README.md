@@ -61,8 +61,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com">
-    <!-- Requiere desplegar la instancia de novatorem/spotify-readme en Vercel -->
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Listening Now" />
+    <img src="https://https://novatorem-drab-beta.vercel.app/api/spotify" alt="Spotify Currently Playing" />
   </a>
 </div>
 
