@@ -28,7 +28,7 @@
 </p>
 
 
-**Lenguajes de Sistema, Entornos & DevOps**  
+**Languages, Environments & DevOps**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,10 +54,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
-### 🎮 Más Allá del Código
-- 🏔️ **Montaña & Trekking:** Rutas al aire libre y desconexión en altura.
-- 🕹️ **Gaming & Modding:** Títulos inmersivos, entornos interactivos y mecánicas complejas.
-- 🖥️ **Hardware Lab:** Banco de pruebas para benchmarks, tuning de kernels y optimización de recursos.
+### 🎮 Beyond the Code
+- 🏔 ️ **Mountain & Trekking:** Outdoor routes and disconnection at altitude.
+- 🕹️ **Gaming & Modding:** Immersive titles, interactive environments and complex mechanics.
+- 🖥️ **Hardware Lab:** Test bench for benchmarks, kernel tuning and resource optimization.
 
 <div align="center">
   <a href="https://open.spotify.com">
@@ -83,7 +83,7 @@
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-**Bases de Datos (SQL & NoSQL)**  
+**Data Base (SQL & NoSQL)**  
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
