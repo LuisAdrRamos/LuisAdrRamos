@@ -1,5 +1,9 @@
 <!-- Banner Minimalista -->
 <div align="center">
+  <img src="./6604090.gif" width="100%" alt="Pixel Art Header" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Luis%20Adrián&fontSize=42&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20&%20Systems&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
