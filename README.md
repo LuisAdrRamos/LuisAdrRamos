@@ -1,6 +1,6 @@
 <!-- Banner Minimalista -->
 <div align="center">
-  <img src="./6604090.gif" width="100%" alt="Pixel Art Header" />
+  <img src="./assets/header.gif" width="100%" alt="Pixel Art Header" />
 </div>
 
 <div align="center">
