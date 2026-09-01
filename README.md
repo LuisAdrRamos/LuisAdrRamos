@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com">
-    <img src="https://https://novatorem-drab-beta.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+    <img src="https://novatorem-drab-beta.vercel.app/" alt="Spotify Currently Playing" />
   </a>
 </div>
 
