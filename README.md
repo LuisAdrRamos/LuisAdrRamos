@@ -8,6 +8,13 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuisAdrRamos/LuisAdrRamos/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
+</div>
+
+---
+
 ### About Me
 
 - **I’m currently working on:** Backend architecture, scalable REST APIs, and local AI workflows.
