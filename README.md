@@ -1,6 +1,5 @@
-<!-- Banner Minimalista -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Adrián&fontSize=42&fontAlignY=38&desc=Full--Stack%20Developer%20(Backend%20Oriented)%20%7C%20Local%20AI%20Inference&descAlignY=62&descAlign=50&color=gradient&bgImg=https://raw.githubusercontent.com/LuisAdrRamos/LuisAdrRamos/main/assets/header.gif" width="100%" alt="Header" />
+  <img src="./assets/header.gif" width="100%" alt="Header" />
 </div>
 
 ---
