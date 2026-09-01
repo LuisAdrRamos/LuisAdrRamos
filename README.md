@@ -1,11 +1,19 @@
 <!-- Banner Minimalista -->
 <div align="center">
-  <img src="./assets/header.gif" width="100%" alt="Pixel Art Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Adrián&fontSize=42&fontAlignY=38&desc=Full--Stack%20Developer%20(Backend%20Oriented)%20%7C%20Local%20AI%20Inference&descAlignY=62&descAlign=50&color=gradient&bgImg=https://raw.githubusercontent.com/LuisAdrRamos/LuisAdrRamos/main/assets/header.gif" width="100%" alt="Header" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Luis%20Adrián&fontSize=42&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20&%20Systems&descAlignY=62&descAlign=50" width="100%"/>
-</div>
+---
+
+### 👾 About Me
+
+- 🔭 **I’m currently working on:** Backend architecture, scalable REST APIs, and local AI workflows.
+- 🧠 **Research & Local AI:** Exploring quantization techniques (GGUF/EXL2), hardware optimization, and low-level model inference.
+- 👯 **I’m looking to collaborate on:** Open-source backend tooling, Python/Django projects, or AI inference tools.
+- 🤝 **I’m looking for help with:** Advanced quantization workflows and GPU/compute tuning.
+- 🌱 **I’m currently learning:** Low-level inference engines, advanced caching strategies, and system profiling.
+- 💬 **Ask me about:** Python, Django, SQL/NoSQL databases, Linux environments, and local LLMs.
+- ⚡ **Fun fact:** I spend as much time optimizing my Linux setup and hardware configs as I do writing code.
 
 ---
 
@@ -15,16 +23,6 @@
 
 ---
 
-### About Me
-
-- **I’m currently working on:** Backend architecture, scalable REST APIs, and local AI workflows.
-- **Research & Local AI:** Exploring quantization techniques (GGUF/EXL2), hardware optimization, and low-level model inference.
-- **I’m looking to collaborate on:** Open-source backend tooling, Python/Django projects, or AI inference tools.
-- **I’m looking for help with:** Advanced quantization workflows and GPU/compute tuning.
-- **I’m currently learning:** Low-level inference engines, advanced caching strategies, and system profiling.
-- **Ask me about:** Python, Django, SQL/NoSQL databases, Linux environments, and local LLMs.
-- **Fun fact:** I spend as much time optimizing my Linux setup and hardware configs as I do writing code.
----
 <p align="center">
   <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=LuisAdrRamos&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="Top Langs" />
   <img height="165em" src="https://github-readme-stats.shion.dev/api?username=LuisAdrRamos&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
